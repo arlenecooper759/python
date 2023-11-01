@@ -5,7 +5,7 @@ http://flypython.com
 [中文版](./README_cn.md)
 
 
-## Python News
+## Python Newss
 
 - [python official](https://www.python.org/)
 - [realpython](https://realpython.com)
